@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Projects\\MonoGame\\Platformer\\Platformer.csproj": {}
+    "C:\\Projects\\MonoGame\\Platformer\\Platformer.csproj": {}
   },
   "projects": {
-    "c:\\Projects\\MonoGame\\Platformer\\Platformer.csproj": {
+    "C:\\Projects\\MonoGame\\Platformer\\Platformer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Projects\\MonoGame\\Platformer\\Platformer.csproj",
+        "projectUniqueName": "C:\\Projects\\MonoGame\\Platformer\\Platformer.csproj",
         "projectName": "Platformer",
-        "projectPath": "c:\\Projects\\MonoGame\\Platformer\\Platformer.csproj",
+        "projectPath": "C:\\Projects\\MonoGame\\Platformer\\Platformer.csproj",
         "packagesPath": "C:\\Users\\Brooky\\.nuget\\packages\\",
-        "outputPath": "c:\\Projects\\MonoGame\\Platformer\\obj\\",
+        "outputPath": "C:\\Projects\\MonoGame\\Platformer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Brooky\\AppData\\Roaming\\NuGet\\NuGet.Config"
