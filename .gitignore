@@ -1,5 +1,6 @@
 obj/*
 Content/bin/*
 Content/obj/*
+bin/*
 
 !obj/project.assets.json
